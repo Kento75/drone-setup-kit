@@ -3,11 +3,11 @@ Drone.io(オンプレ版)を使用したGithub接続用Docker-composeモジュ�
 
 ## セットアップ
 
-0.前提条件  
+①前提条件  
 ・Docker、Docker-composeのセットアップ済み  
 ・GithubのAuth認証設定済み
 
-1.各種設定値を入力する。
+②各種設定値を入力する。
 
 ```sh:.env
 DRONE_GITHUB_URL=     # 例) https://hogehoge-domainname.com
@@ -18,7 +18,7 @@ DRONE_HOST=           # ホストのIP
 
 ```
 
-2.サーバー、クライアントを起動する。
+③サーバー、クライアントを起動する。
 
 ```sh
 # プロジェクトディレクトリに移動
