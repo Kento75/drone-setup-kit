@@ -29,5 +29,5 @@ $ Docker-compose up
 
 ```
 
-3.DRONE_HOSTで設定したURLにアクセス。
+④DRONE_HOSTで設定したURLにアクセス。
 
