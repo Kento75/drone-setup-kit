@@ -4,7 +4,7 @@ Drone.io(オンプレ版)を使用したGithub接続用Docker-composeモジュ�
 ## セットアップ
 
 0.前提条件  
-・Docker、Docker-composeのセットアップ済み
+・Docker、Docker-composeのセットアップ済み  
 ・GithubのAuth認証設定済み
 
 1.各種設定値を入力する。
