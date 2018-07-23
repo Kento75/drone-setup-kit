@@ -23,7 +23,7 @@ DRONE_HOST=           # ホストのIP
 
 ```sh
 # プロジェクトディレクトリに移動
-$ cd droe-setup-kit
+$ cd drone-setup-kit
 
 # Docker-composeコマンドを実行
 $ Docker-compose up
